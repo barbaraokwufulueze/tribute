@@ -105,6 +105,10 @@ a:visited {
   padding: 4rem;
 }
 
+.footer a {
+  text-decoration: none;
+}
+
 /**********************
     MEDIA QUERIES
 **********************/
